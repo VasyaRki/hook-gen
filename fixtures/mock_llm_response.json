@@ -1,0 +1,42 @@
+{
+  "analysis": {
+    "pain": "Socks constantly go missing in the laundry, leaving a drawer of mismatched singles.",
+    "angle": "pain",
+    "structure": "Specific personal number (47 socks) -> twist 'Then I found these' -> relatable laundry moment -> product reveal -> low-friction quiz CTA.",
+    "key_emotion": "Exasperated, slightly comic frustration that turns into relief."
+  },
+  "variants": [
+    {"element_changed": "hook", "angle": "pain", "new_text": "My sock drawer is basically a lost-and-found with no found.", "rationale": "Keeps the winner's frustration but frames it as a funny, relatable image."},
+    {"element_changed": "hook", "angle": "pain", "new_text": "Laundry day: 12 socks go in, 9 come out. Every single time.", "rationale": "Concrete numbers mirror the winner's '47 socks' specificity."},
+    {"element_changed": "first_line", "angle": "pain", "new_text": "I spent last Sunday matching socks for 25 minutes. Half of them had no partner.", "rationale": "Time wasted is a second pain layer on top of lost socks."},
+    {"element_changed": "hook", "angle": "pain", "new_text": "Sock orphans have taken over my house and I'm done with it, so I finally went looking for a real fix that works.", "rationale": "Escalates the pain story into a decision moment."},
+    {"element_changed": "on_screen", "angle": "pain", "new_text": "Laundry day, minus the hunt", "rationale": "Short on-screen promise that visualizes the solved pain."},
+    {"element_changed": "hook", "angle": "curiosity", "new_text": "So where do all the missing socks actually go?", "rationale": "Open loop question that viewers want answered."},
+    {"element_changed": "hook", "angle": "curiosity", "new_text": "There's a tiny secret hidden in the cuff of these socks.", "rationale": "Teases the magnet without revealing it, so people keep watching."},
+    {"element_changed": "first_line", "angle": "curiosity", "new_text": "I put a magnet in my socks and my washing machine finally gave up.", "rationale": "Odd, specific action creates curiosity in the first second."},
+    {"element_changed": "on_screen", "angle": "curiosity", "new_text": "What's hiding in the cuff?", "rationale": "On-screen question supports a curiosity-driven watch-through."},
+    {"element_changed": "hook", "angle": "curiosity", "new_text": "I found out why my dryer keeps winning the sock war.", "rationale": "Promises an explanation for a universal mystery."},
+    {"element_changed": "hook", "angle": "social_proof", "new_text": "Thousands of families stopped hunting for socks this year.", "rationale": "Shifts proof from one person to a crowd without a hard number claim."},
+    {"element_changed": "first_line", "angle": "social_proof", "new_text": "My sister sent me these after her kids stopped losing socks at camp.", "rationale": "Word-of-mouth framing feels authentic and low-pressure."},
+    {"element_changed": "hook", "angle": "social_proof", "new_text": "Guaranteed: your socks come out of the wash as pairs.", "rationale": "Strong promise backed by customer reviews."},
+    {"element_changed": "hook", "angle": "contrarian", "new_text": "Don't buy another pack of socks until you see this.", "rationale": "Pattern-interrupt against the default solution of buying more socks."},
+    {"element_changed": "first_line", "angle": "contrarian", "new_text": "Everyone blames the dryer. The real problem is that socks travel solo.", "rationale": "Reframes the cause, setting up the magnet as the obvious fix."},
+    {"element_changed": "on_screen", "angle": "contrarian", "new_text": "Stop sorting. Let the cuffs do all the matching for you.", "rationale": "Contrarian instruction that doubles as product demo."},
+    {"element_changed": "hook", "angle": "contrarian", "new_text": "Get 5 pairs for $19 and quit buying socks forever.", "rationale": "Price anchor plus contrarian angle against bulk buying."},
+    {"element_changed": "hook", "angle": "problem_solution", "new_text": "Snap. Wash. Still a pair.", "rationale": "Three-beat solution that matches the product demo shot."},
+    {"element_changed": "first_line", "angle": "problem_solution", "new_text": "A tiny magnet on each cuff clicks the pair together before it hits the washer.", "rationale": "Explains the mechanism right away for solution-aware viewers."},
+    {"element_changed": "hook", "angle": "humor", "new_text": "My socks finally committed to each other. Took them long enough.", "rationale": "Relationship joke makes the product memorable."},
+    {"element_changed": "on_screen", "angle": "humor", "new_text": "Socks with trust issues? Fixed.", "rationale": "Playful on-screen line fits the brand tone."},
+    {"element_changed": "hook", "angle": "ugc_testimonial", "new_text": "Okay, I was skeptical about magnetic socks. I was wrong.", "rationale": "Skeptic-turned-believer is a proven UGC structure."},
+    {"element_changed": "hook", "angle": "pain", "new_text": "Are you tired of digging through the laundry basket for one sock?", "rationale": "Direct question pulls the viewer into the pain."},
+    {"element_changed": "on_screen", "angle": "problem_solution", "new_text": "Pairs stay together in the wash", "rationale": "States the core benefit in plain words."},
+    {"element_changed": "hook", "angle": "curiosity", "new_text": "This is the weirdest laundry upgrade I've made all year.", "rationale": "Self-deprecating curiosity hook with a soft reveal."}
+  ],
+  "refill": [
+    {"element_changed": "hook", "angle": "social_proof", "new_text": "My neighbor asked why my laundry looks so organized now.", "rationale": "Social curiosity from a third party acts as soft proof."},
+    {"element_changed": "hook", "angle": "contrarian", "new_text": "Matching socks is a chore you don't actually need to do.", "rationale": "Challenges an accepted routine."},
+    {"element_changed": "first_line", "angle": "humor", "new_text": "My washing machine used to keep one sock as a souvenir. Not anymore.", "rationale": "Light joke keeps the laundry-day tone."},
+    {"element_changed": "hook", "angle": "ugc_testimonial", "new_text": "Three months in and I haven't matched a single sock by hand.", "rationale": "Time-based testimonial shows lasting value."},
+    {"element_changed": "on_screen", "angle": "pain", "new_text": "No more single socks", "rationale": "Short pain-relief statement for the on-screen layer."}
+  ]
+}

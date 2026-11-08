@@ -1,0 +1,10 @@
+product:
+  name: SockLock
+  facts: ["magnet on the cuffs keeps pairs together", "5 pairs for $29", "new delivery every quarter", "machine washable"]
+tone: "playful, relatable, laundry-day frustration, no fear-mongering"
+limits:
+  hook_chars: 90
+  first_line_chars: 120
+  on_screen_chars: 40
+banned_phrases: ["guaranteed", "100%", "never lose", "cure", "best in the world", "doctor recommended"]
+allowed_claims: ["keeps pairs together in the wash"]

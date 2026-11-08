@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hookgen"
+version = "0.1.0"
+description = "HookGen: брифи модифікацій креативів для SockLock"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic",
+    "typer",
+    "streamlit",
+    "pydantic>=2",
+    "pandas",
+    "rapidfuzz",
+    "pyyaml",
+    "pytest",
+]
+
+[project.scripts]
+hookgen = "hookgen.cli:app"
+
+[tool.setuptools]
+packages = ["hookgen"]
